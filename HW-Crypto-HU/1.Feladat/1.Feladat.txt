@@ -1,0 +1,78 @@
+1.betűpárok:
+	TECHNIUE:
+		EC --> CB
+		HN --> NH
+		IU --> BP
+	SIGNIFICANT:
+		SI --> UF
+		GN --> HM
+		IF --> FI
+		IC --> YA
+		AN --> NA
+	COMPARED:
+		CO --> RM
+		MP --> KS
+		AR --> TT
+		ED --> UB
+	OPERATE:
+		PE --> ZA
+		RA --> SE
+		TE --> BB
+
+2.potenciális helyek soronként:
+	TECHNIUE:
+		1.	|	2.	|	3.	|	4.	|	5.
+		I	|	E	|	C	|	H	|	B
+	SIGNIFICANT: (I kerülhetett volna a 4. oszlopba is az IF --> FI miatt, de úgy ellentmondásra jutnánk)
+		1.	|	2.	|	3.	|	4.	|	5.
+		SI	|		|	GY	|	UHA	|
+	COMPARED:
+		1.	|	2.	|	3.	|	4.	|	5.
+		K	|	TE	|	CM	|	AU	|	RZ
+	OPERATE:
+		1.	|	2.	|	3.	|	4.	|	5.
+		PS	|	T	|		|		|	ZRB
+
+3.Összevonva:
+		1.	|	2.	|	3.	|	4.	|	5.
+		ISKP	|	ET	|	CGYM	|	HUA	|	BRZ
+
+4.Teljes felső mátrix:
+	SECURITY szó kirakható a felső betűkből
+
+	S	E	C	U	R
+	I	T	Y	A	B
+	D	F	G	H	J
+	K	L	M	N	O	
+	P	V	W	X	Z
+
+5.A teljes dekódolt szöveg, kijavítva a felcserélt betűk miatti dekódolási hibákat
+
+th et ec hn iu ee nc ry pt sp ai rs of le tt er
+YG UR CB NH BP RB MD UZ XP PS IA CU KJ OB AR RE
+
+sa nd th us fa ll si nt oa ca te go ry of ci ph
+AS DN YG CT DB LL UF TN KE SC BB JM UZ KJ UH WF
+
+er sk no wn as po ly gr ap hi cs ub st it ut io
+RE KS ON XM YT ZK NW FS IT IH SC ED UP AP TU BK
+
+nc ip he rs th is ad ds si gn if ic an ts tr en
+MD PI JD CU YG YP DA GP UF HM FI YA NA YR RT UL
+
+gt ht ot he en cr yp ti on wh en co mp ar ed wi
+HS TH NU JD UL ES IS AG NO HW UL RM KS TT UB XH
+
+th mo no gr ap hi cs ub st it ut io nc ip he rs
+YG OM ON FS IT IH SC ED UP AP TU BK MD PI JD CU
+
+wh ic ho pe ra te on si ng le ch ar ac te rs
+HW YA JN ZA SE BB NO UF LI OB HC TT YD BB CU
+
+Eredeti szöveg:
+the technique encrypts pairs of letters 
+and thus falls in to a category of ciphers 
+known as polygraphic substitution ciphers 
+this adds significant strength to the encryption 
+when compared with monographic substitution ciphers 
+which operate on single characters
