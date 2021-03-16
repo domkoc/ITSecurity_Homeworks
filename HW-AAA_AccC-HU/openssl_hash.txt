@@ -1,0 +1,8 @@
+openssl passwd -1 -salt <salt> <pass>
+openssl passwd -6 -salt CBJhSHIWTxVKkEXg EasyDiamond
+openssl passwd -5 -salt FSRFdXhqehxiiFZV EasyDiamond
+openssl passwd -6 -salt SJRweUUklycIq1C EasyDiamond
+openssl passwd -6 -salt YgVQv3fSdlYwR EasyDiamond
+openssl passwd -1 -salt 8HptDKnp EasyDiamond
+openssl passwd -6 -salt DWKlq62oU9k8O/z EasyDiamond
+openssl passwd -6 -salt yhVabCDsrFv EasyDiamond
